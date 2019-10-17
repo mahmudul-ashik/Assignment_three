@@ -1,0 +1,231 @@
+body{
+	padding: 0;
+    margin: 0;
+}
+header{
+	
+background-color: #27ff000d;
+	
+padding: 23px 0px;
+}
+.maindiv{
+
+}
+.container{
+
+width: 1100px;
+
+
+margin-left: auto;
+
+overflow: hidden;
+
+margin-right: auto;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+}
+.menus{
+
+width: 80%;
+
+float: left;
+}
+ .menus ul{
+
+margin: 0;
+
+padding: 2px;
+
+list-style: none;
+
+text-align: right;
+}
+.menus ul li{
+
+display: inline-block;
+}
+.menus ul li a{
+
+text-decoration: none;
+
+color: #0000008c;
+
+text-transform: uppercase;
+
+padding: 5px 33px;
+
+
+}
+ .banner{
+
+width: 80%;
+
+margin-left: auto;
+
+margin-right: auto;
+}
+.banner img{
+	
+}
+.Photodiary{
+
+width: 70%;
+
+margin-top: 25px;
+}
+.Photodiary-header{
+
+color: #000000ad;
+}
+.Photodiary-articles{
+
+color: #1d1c1cb8;
+}
+span{
+	
+text-transform: uppercase;
+	
+text-decoration: none;
+	
+color: #0000006b;
+	
+font-size: 14px;
+}
+.Photodiary-articles a{
+
+color: #1d1c1cb8;
+
+text-transform: uppercase;
+
+text-decoration: none;
+
+font-size: 14px;
+}
+.Photodiary-articles p{
+	line-height: 20px;
+}
+.mid-section{
+
+}
+.left-mid{
+
+width: 40%;
+
+float: left;
+
+margin-right: 70px;
+}
+.right-mid
+{width: 40%;
+	float: left;
+	margin-left: 75px;
+}
+.left-mid h1{
+
+color: #1b1a19c7;
+
+font-size: 28px;
+}
+.right-mid h1{
+	
+color: #1b1a19c7;
+	
+font-size: 28px;
+}
+
+.left-mid p{
+
+color: #1b1a19c7;
+
+}
+.right-mid p{
+	
+color: #1b1a19c7;
+
+}
+footer{
+	background-color: #27ff000d;
+}
+.footer-container{
+
+width: 90%;
+
+margin-left: 10%;
+
+overflow: hidden;
+
+/* margin-right: auto; */
+}
+.Terms{width: 30%;float: left;}
+.Terms ul{
+
+/* float: left; */
+}
+.Terms ul li{
+	
+list-style: none;
+	
+display: inline-block;
+}
+.Terms ul li a{
+	
+text-decoration: none;
+	
+padding: 5px 23px;
+	
+color: #000000eb;
+	
+font-weight: 900;
+}
+.social{width: 40%;float: right;}
+.social ul{
+
+overflow: hidden;
+
+margin: -2px;
+
+padding: 19px;
+
+list-style: none;
+
+display: inline-block;
+}
+
+.list{
+
+margin: 0;
+
+padding: 2px;
+
+list-style: none;
+
+text-align: right;
+
+display: inline-block;
+}
+.social ul li a{
+
+text-decoration: none;
+
+color: #0000008c;
+
+text-transform: capitalize;
+
+padding: 0px 4px;
+}
+.spacer{width: 40%;float: left;}
+.soc{
+	    height: 20px;
+    width: 20px;
+}
+.follow{    font-size: 21px;}
+.images-section{
+    margin-bottom: 12px;
+}
